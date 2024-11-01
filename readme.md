@@ -1,5 +1,7 @@
 # Dama web-based game project
 
+<img src="https://github.com/emantggw/dama_game_js/raw/main/assets/screenshots/screenshot.gif" />
+
 ### Project created at:
 
     - 2019/8/14
