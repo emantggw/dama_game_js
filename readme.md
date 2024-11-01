@@ -11,4 +11,4 @@
 
 ### Author:
 
-    [emantggw](https://github.com/emantggw)
+    @emantggw
