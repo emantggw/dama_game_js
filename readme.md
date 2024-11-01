@@ -1,14 +1,14 @@
-### Dama web game project
+# Dama web game project
 
-## Project created at:
+### Project created at:
 
-    2019/8/14
+    - 2019/8/14
 
-## Tech stack:
+### Tech stack:
 
-    JavaScript
-    HTML5
+    - JavaScript
+    - HTML5
 
-## Author:
+### Author:
 
-    @emantggw
+    [@emantggw](https://github.com/emantggw)
