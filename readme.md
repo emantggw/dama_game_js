@@ -1,4 +1,4 @@
-# Dama web game project
+# Dama web-based game project
 
 ### Project created at:
 
@@ -11,4 +11,4 @@
 
 ### Author:
 
-    @emantggw
+[@emantggw](https://github.com/emantggw)
